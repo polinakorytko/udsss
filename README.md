@@ -1,1 +1,1 @@
-https://polinakorytko.github.io/udsss/
+git@github.com:polinakorytko/udsss.git
